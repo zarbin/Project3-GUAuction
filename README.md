@@ -5,9 +5,9 @@
 
 ## Project Description
 
-    The intent is to do reporting and faciliate analysis of an NFT market place, in particular cards in the blockchain game God's Unchained. 
-    Each player has a set of cards in this game that they own, on the Ethereum blockchain, and I'd like to create a decentralized aunction
-    in solidity for a given set of cards a player owns.  
+   The intent is to do reporting and faciliate analysis of an NFT market place, in particular cards in the blockchain game God's Unchained. 
+   Each player has a set of cards in this game that they own, on the Ethereum blockchain, and I'd like to create a decentralized aunction
+   in solidity for a given set of cards a player owns.  
 
    In Summary:
    * Report and Analyze an NFT marketplace - Reports / Dashboard of a given NFT collection
