@@ -5,9 +5,9 @@
     Justin Bernier
 
 ## Project Description
-    *Report and Analyze an NFT marketplace - Reports / Dashboard of a given NFT collection
-	*Create a decentralized auction in Solidity with said NFTs
-	*Use a new API from blockchain game God's Unchained 
+*Report and Analyze an NFT marketplace - Reports / Dashboard of a given NFT collection
+*Create a decentralized auction in Solidity with said NFTs
+*Use a new API from blockchain game God's Unchained 
 
 ## Objectives / Project Questions to Answer
 
