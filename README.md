@@ -3,7 +3,7 @@
 
 ### Project Title
 
-# Team Members
+## Team Members
     Justin Bernier
 
 ### Project Description
