@@ -1,10 +1,10 @@
 # Project3-GUAuction
-Project 3 - God's Unchained NFT analysis and auction
+### Project 3 - God's Unchained NFT analysis and auction
 
 ### Project Title
 
 # Team Members
-  Justin Bernier
+    Justin Bernier
 
 ### Project Description
 
