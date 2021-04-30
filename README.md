@@ -13,11 +13,11 @@
 
 
 ## Data Sources (APIs, Datasets)
-    * OpenZepplin - Aunction Contact
-        * https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC721/ERC721Full.sol
-        * https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/ownership/Ownable.sol
-    * God's Unchained API - https://github.com/immutable/gods-unchained-api
-    * Token Trove API - https://tokentrove.com/docs
+   * OpenZepplin - Aunction Contact
+       * https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC721/ERC721Full.sol
+       * https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/ownership/Ownable.sol
+   * God's Unchained API - https://github.com/immutable/gods-unchained-api
+   * Token Trove API - https://tokentrove.com/docs
     
 ## Rough Breakdown of Tasks
     
