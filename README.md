@@ -26,7 +26,7 @@
    * Create and test datasets
    * Summarize / Visualize a players set in a useful way
    * Do marketplace analysis based on Token Trove
-   * Create Aunction contract in Solidity using OpenZeppling
+   * Create Aunction contract in Solidity using OpenZeppelin
    * Develop process for a player to list their cards for auction
    * Document project
    * Prepare presentation
