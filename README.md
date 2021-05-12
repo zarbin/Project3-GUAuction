@@ -1,9 +1,29 @@
 # Project 3 - God's Unchained NFT analysis and auction platform
+## Key Files
+      ./data/GU_cardCollection.ipynb - code that enages IMX API.  
+      ./data/export_cardset_05112021.csv - example player set export. 
+      
+      ./GUArt_market - near complete Truffle based auction house.
+      ./GUArt_market/contracts/GUArtAunction.sol and GUArtMarket.sol
+
+      ./GodsUnchained_Slides.pdf  -  export of slide deck
+   
+
+## Screenshots
+Summary output of a given players cardset post analysis.  
+![summary](./images/scr1.png)
+
+Example screenshot of data pulled from IMX
+![summary](./images/scr2.png)
+
 
 ## Team Members
     Justin Bernier
 
-## Project Description
+
+
+
+## Project Description - From Project Kick Off
 
    The intent is to do reporting and faciliate analysis of an NFT market place, in particular cards in the blockchain game God's Unchained. 
    Each player has a set of cards in this game that they own, on the Ethereum blockchain, and I'd like to create a decentralized aunction
